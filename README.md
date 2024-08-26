@@ -1,13 +1,13 @@
-## My academic life
+# My academic life
 <samp>Este é um repositorio onde eu irei lista meu progresso na minha vida academica.</samp>
 
 ## Index
-<samp> [Graduação](https:github.com/leonardoSSm/#graduação)</samp></br>
-<samp> [Certificação](https:github.com/leonardoSSm/#certificação)</samp></br>
-<samp> [Idiomas](https:github.com/leonardoSSm/#idiomas)</samp></br>
-<samp> [Cursos](https:github.com/leonardoSSm/#cursos)</samp></br>
+<samp> [Graduação](#graduação)</samp></br>
+<samp> [Certificação](#certificação)</samp></br>
+<samp> [Idiomas](#idiomas)</samp></br>
+<samp> [Cursos](#cursos)</samp></br>
 ## Graduação
-
+- `Graduação em analise e desenvolvimento de sistemas(Em andamento)` - Centro universitário internacional - [Uninter](https://www.uninter.com) 2021-2025
 
 ## Certificação
 
@@ -16,3 +16,4 @@
 <samp>Inglês: Intermediário, ler e escrita </samp></br>
 
 ## Cursos
+
