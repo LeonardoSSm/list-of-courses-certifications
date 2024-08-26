@@ -7,7 +7,7 @@
 <samp> [Idiomas](#idiomas)</samp></br>
 <samp> [Cursos](#cursos)</samp></br>
 ## Graduação
-- `Graduação em analise e desenvolvimento de sistemas(Em andamento)` - Centro universitário internacional - [Uninter](https://www.uninter.com) 2021-2025
+- `Analise e desenvolvimento de sistemas(Em andamento)` - Centro universitário internacional - [Uninter](https://www.uninter.com) 2021-2025
 
 ## Certificação
 
